@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Gafour&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=🤖+AI+%26+ML+Engineer;👁️+Computer+Vision+Specialist;🌐+Full+Stack+Developer;🧬+LLM+%26+RAG+Pipeline+Builder;🎓+Cairo+University+AI+Student" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=AI+%26+ML+Engineer;Computer+Vision+Specialist;Full+Stack+Developer;LLM+%26+RAG+Pipeline+Builder;Cairo+University+AI+Student" alt="Typing SVG" />
 <br/>
 
 <!-- PROFILE VIEWS + BADGES -->
