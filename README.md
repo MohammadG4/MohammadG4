@@ -158,7 +158,6 @@ class MohammadGafour:
 
 ---
 
-## 🐍 My Contributions Getting Eaten!
 
 <div align="center">
 
